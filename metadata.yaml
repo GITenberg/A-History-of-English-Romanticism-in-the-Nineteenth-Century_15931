@@ -1,0 +1,34 @@
+_repo: A-History-of-English-Romanticism-in-the-Nineteenth-Century_15931
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beers, Henry A. (Henry Augustin)
+    alias: Beers, Henry Augustin
+    birthdate: 1847
+    deathdate: 1926
+    gutenberg_agent_id: '4050'
+    url: http://www.gutenberg.org/2009/agents/4050
+description: ''
+gutenberg_issued: '2005-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- !lcsh 'Pre-Raphaelitism in literature'
+- !lcc 'PR'
+- !lcsh 'Romanticism -- Great Britain'
+- !lcsh 'Pre-Raphaelitism -- Great Britain'
+tableOfContents: Walter Scott -- Coleridge, Bowles, and the Pope controversy -- Keats,
+  Leigh Hunt, and the Dante revival -- The romantic school in Germany -- The romantic
+  movement in France -- Diffused romanticism in the literature of the nineteenth century
+  -- The Pre-Raphaelites -- Tendencies and results.
+title: A History of English Romanticism in the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/15931
